@@ -6,7 +6,8 @@ description: Laboratorio 2
 ---
 
 <img src="https://media.licdn.com/dms/image/D4D03AQFluzGh1LXQgQ/profile-displayphoto-shrink_400_400/0/1691099932790?e=1697068800&v=beta&t=CWwvboHOdGei4cd3wi4HTGzvtZ0vEcd43E7gr79diT4" width="100px">
-<a href="www.linkedin.com/in/dylan-abrahan-477606203"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px"></a>
+
+<a href="https://www.linkedin.com/in/dylan-abrahan-477606203"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px"></a>
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
