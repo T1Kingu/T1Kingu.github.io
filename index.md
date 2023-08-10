@@ -11,7 +11,7 @@ description: Laboratorio 2
 
 BIENVENIDOS
 
-Mi nombre es Dylan Abrahan Myers y soy estudiante Administración de Tecnologías de Información en el ITCR. Me gusta mucho la programación así como los deportes.
+Mi nombre es Dylan Abrahan Myers y soy estudiante de Administración de Tecnologías de Información en el ITCR. Me gusta mucho la programación así como los deportes.
 
 A continuación puede ver más información sobre mí en las diferentes secciones:
 - [Educación](pages/education.html)
