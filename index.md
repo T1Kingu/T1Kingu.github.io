@@ -9,6 +9,17 @@ description: Laboratorio 2
 
 <a href="https://www.linkedin.com/in/dylan-abrahan-477606203"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px"></a>
 
+<b>BIENVENIDOS</b>
+
+Mi nombre es Dylan Abrahan Myers y soy estudiante Administración de Tecnologías de Información en el ITCR. Me gusta mucho la programación así como los deportes.
+
+A continuación puede ver más información sobre mí en las diferentes secciones:
+- Educación
+- Certificaciones
+- Voluntariado
+- Habilidades
+- Cursos completados destacados
+
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
