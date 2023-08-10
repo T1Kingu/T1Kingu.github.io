@@ -4,7 +4,7 @@ title: Dylan Abrahan
 tagline: Página personal
 description: Laboratorio 2
 ---
-![](https://media.licdn.com/dms/image/D4D03AQFluzGh1LXQgQ/profile-displayphoto-shrink_800_800/0/1691099932790?e=1697068800&v=beta&t=1mT1J1fJ1OMGraZynZrPJFInS68BUYFz45jqocTd-xQ){width='100px'}
+<img src="https://media.licdn.com/dms/image/D4D03AQFluzGh1LXQgQ/profile-displayphoto-shrink_800_800/0/1691099932790?e=1697068800&v=beta&t=1mT1J1fJ1OMGraZynZrPJFInS68BUYFz45jqocTd-xQ" width="100px">
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
