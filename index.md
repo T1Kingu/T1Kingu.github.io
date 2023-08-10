@@ -17,5 +17,4 @@ A continuación puede ver más información sobre mí en las diferentes seccione
 - [Educación](pages/education.html)
 - [Certificaciones](pages/certifications.html)
 - [Voluntariado](pages/volunteering.html)
-- [Habilidades](pages/skills.html)
 - [Cursos completados destacados](pages/courses.html)
